@@ -3,7 +3,7 @@
 Pseudocode  is a step-by-step plan written in simple language that looks a bit like code but ignores exact syntax. 
 For Python, keep indentation, use clear names, and write one action per line so translating to Python is easy.
 
-'''text
+```text
 # Problem: say what you’re solving.
 # Inputs: what comes in?
 # Output: what should come out?
@@ -13,7 +13,7 @@ DEFINE function_name(inputs)
     STEP 2 (conditions / loops if needed)
     RETURN result
 END
-'''
+```
 
 ## Example 1- sum of a list
 
